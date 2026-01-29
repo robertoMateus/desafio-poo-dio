@@ -128,9 +128,13 @@ Este desafio foi criado para praticar:
 - Streams e lambdas (Java 8+)
 - Tratamento de erros com Optional
 
-## 📝 Autor
+## 📝 Sobre
 
-Desafio proposto por DIO (Digital Innovation One)
+**Desafio Proposto por**: [DIO - Digital Innovation One](https://www.dio.me)
+
+**Implementado por**: **Roberto Mateus de Melo Silva**
+
+📱 Conecte-se comigo: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-mateus-de-melo-silva)
 
 ---
 
